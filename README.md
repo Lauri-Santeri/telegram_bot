@@ -1,3 +1,3 @@
-# telegram_bot
+# Telegram_bot
 
-Botin tarkoitus on kertoa Tampereella vallitseva sää. Botti hyödyntää OpenWeatherMap APIn Current Weather Dataa ja muokkaa siitä säätieto raportin käyttäjälle.
+The meaning of the Bot is to tell user current weather in Tampere. The Bot uses Current Weather Data from OpenWeatherMap API to get weather information. After that Bot makes weather report according to the weather information and sends it to user.
